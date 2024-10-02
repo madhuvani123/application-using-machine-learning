@@ -1,1 +1,1 @@
-# application-using-machine-learning
+# salary prediction of a data scientist-using-machine-learning
